@@ -5,7 +5,7 @@
 <img src="./image/logo.jpg" alt="Logo" width="170">
 
 <h1>开源矿工首款矿池中转软件</h1>
-<h2>NTminerProxy</h2>
+<h2>NTminerProxy做最好的矿池中转软件</h2>
 
 <img src="./image/1.png" alt="Logo">
 
@@ -28,16 +28,11 @@
    <img src="https://img.shields.io/badge/RMS%E6%9C%AC%E5%9C%B0%E5%AE%A2%E6%88%B7%E7%AB%AF-%F0%9F%91%88-00b9ff">
 </a>
 
-
-
-[![CakeMinerProxy][CakeMinerProxy.io-badge]][CakeMinerProxy.io]
-[![Stargazers][stars-shield]][stars-url]
-
 <!-- <a href="https://github.com/CakeSystem/CakeMinerProxy">简体中文</a>｜<a href="https://github.com/CakeSystem/CakeMinerProxy/tree/main/Readme/i18n">English</a> -->
 
 </div>
 
-# CakeMinerProxy
+# NTminerProxy
 
 <table>
    <tr>
