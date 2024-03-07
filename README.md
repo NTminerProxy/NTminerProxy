@@ -65,11 +65,11 @@ bash <(curl -s -L https://github.com/NTminerProxy/NTminerProxy/raw/master/ntinst
    ```sh
 https://github.com/NTminerProxy/NTminerProxy/tree/master/windows
    ```
-
+   通过浏览器，输入IP地址+端口号，即可登录网页，配置中转地址。
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
-
+   通过浏览器，输入IP地址+端口号，即可登录网页，配置中转地址。
    </td>
    </tr>   
    <tr>
@@ -131,7 +131,7 @@ https://github.com/NTminerProxy/NTminerProxy/tree/master/windows
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
-   3.9.7已发布
+   3.9.7版本已发布
    修复ZEPH相关BUG
    增加SDR
    重构了端口编辑、添加窗口
