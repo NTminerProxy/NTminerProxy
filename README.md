@@ -12,22 +12,6 @@
 <br>
 <br>
 
-<a href="#dingzhi">
-   <img src="https://img.shields.io/badge/%E7%82%B9%E6%88%91%E5%85%8D%E8%B4%B9%E5%AE%9A%E5%88%B6-%F0%9F%94%A5-8A2BE2">
-</a>
-<a href="#anzhuang">
-   <img src="https://img.shields.io/badge/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%F0%9F%91%88-00b9ff">
-</a>
-<a href="#liaotian" target="_blank">
-   <img src="https://img.shields.io/badge/%E5%8A%A0%E5%85%A5%E8%81%8A%E5%A4%A9-%F0%9F%91%88-00b9ff">
-</a>
-<a href="#gengxin" target="_blank">
-   <img src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97-%F0%9F%91%88-00b9ff">
-</a>
-<a href="https://github.com/CakeSystem/RMS" target="_blank">
-   <img src="https://img.shields.io/badge/RMS%E6%9C%AC%E5%9C%B0%E5%AE%A2%E6%88%B7%E7%AB%AF-%F0%9F%91%88-00b9ff">
-</a>
-
 <!-- <a href="https://github.com/CakeSystem/CakeMinerProxy">简体中文</a>｜<a href="https://github.com/CakeSystem/CakeMinerProxy/tree/main/Readme/i18n">English</a> -->
 
 </div>
@@ -35,8 +19,12 @@
 # NTminerProxy
 
 <table>
+
    <tr>
    <td>
+### **项目简介**
+
+
 
 <span id="anzhuang"></span>
 
@@ -64,7 +52,7 @@ bash <(curl -s -L https://raw.githubusercontent.com/CakeSystem/CakeMinerProxy/ma
    <p>&emsp;&emsp;请直接从此项目的Windows目录下载指定的版本：</p>
 
    ```sh
-https://github.com/CakeSystem/CakeMinerProxy/tree/main/windows
+https://github.com/NTminerProxy/NTminerProxy/tree/master/windows
    ```
 
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
