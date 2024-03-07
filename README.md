@@ -53,6 +53,10 @@ bash <(curl -s -L https://github.com/NTminerProxy/NTminerProxy/raw/master/ntinst
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
 
+   <br>
+
+   <p>&emsp;&emsp;通过浏览器，输入IP地址+端口号，即可登录网页，配置中转地址。</p>
+
    </td>
    </tr>
    <tr>
@@ -65,11 +69,12 @@ bash <(curl -s -L https://github.com/NTminerProxy/NTminerProxy/raw/master/ntinst
    ```sh
 https://github.com/NTminerProxy/NTminerProxy/tree/master/windows
    ```
-   通过浏览器，输入IP地址+端口号，即可登录网页，配置中转地址。
    <p>&emsp;&emsp;Windows版本直接双击启动即可。</p>
 
    <p>&emsp;&emsp;默认后台账号密码为 qzpm19kkx xloqslz913</p>
-   通过浏览器，输入IP地址+端口号，即可登录网页，配置中转地址。
+   <br>
+   
+   <p>&emsp;&emsp;通过浏览器，输入IP地址+端口号，即可登录网页，配置中转地址。</p>
    </td>
    </tr>   
    <tr>
