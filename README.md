@@ -4,7 +4,8 @@
 
 <img src="./image/logo.jpg" alt="Logo" width="170">
 
-<h2 style="font-weight: 600;line-height: 1.25;font-size:3rem;">NTminerProxy</h2>
+<h1>开源矿工首款矿池中转软件</h1>
+<h2>NTminerProxy</h2>
 
 <img src="./image/1.png" alt="Logo">
 
