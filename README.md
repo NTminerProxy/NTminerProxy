@@ -79,38 +79,6 @@ https://github.com/NTminerProxy/NTminerProxy/tree/master/windows
 
 <p>&emsp;&emsp;对于支持的算法，相应的货币将随时热更新</p>
 
-<div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./image/icon-btc.png" alt="Logo" width="25">
-<img src="./image/icon-bch.png" alt="Logo" width="25">
-<img src="./image/icon-etc.png" alt="Logo" width="25">
-<img src="./image/icon-ethw.png" alt="Logo" width="25">
-<img src="./image/icon-ethf.png" alt="Logo" width="25">
-<img src="./image/icon-octa.png" alt="Logo" width="25">
-<img src="./image/icon-etc+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ethw+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ethf+zil.png" alt="Logo" height="25">
-<img src="./image/icon-ltc.png" alt="Logo" width="25">
-<img src="./image/icon-kaspa.png" alt="Logo" width="25">
-<img src="./image/icon-kda.png" alt="Logo" width="25">
-<img src="./image/icon-sc.png" alt="Logo" width="25">
-<img src="./image/icon-hns.png" alt="Logo" width="25">
-<img src="./image/icon-cfx.png" alt="Logo" width="25">
-<img src="./image/icon-dnx.png" alt="Logo" width="25">
-<img src="./image/icon-ckb.png" alt="Logo" width="25">
-<img src="./image/icon-zen.png" alt="Logo" width="25">
-<img src="./image/icon-zec.png" alt="Logo" width="25">
-<img src="./image/icon-lbc.png" alt="Logo" width="25">
-<img src="./image/icon-dash.png" alt="Logo" width="25">
-<img src="./image/icon-sero.png" alt="Logo" width="25">
-<img src="./image/icon-alph.png" alt="Logo" width="25">
-<img src="./image/icon-xmr.png" alt="Logo" width="25">
-<img src="./image/icon-zeph.png" alt="Logo" width="25">
-<img src="./image/icon-rvn.png" alt="Logo" height="25">
-<img src="./image/icon-rxd.png" alt="Logo" width="25">
-<img src="./image/icon-erg.png" alt="Logo" width="25">
-</div>
-
 ```text
   算法                支持的币种
   SHA256              BTC、BCH        
@@ -147,24 +115,9 @@ https://github.com/NTminerProxy/NTminerProxy/tree/master/windows
 
 ### 👉 **加入聊天组**
 
-<p>&emsp;&emsp;Telegram：<a href="https://t.me/CakeSystem">https://t.me/CakeSystem</a></p>
+<p>&emsp;&emsp;开源21群：147980407</p>
 
 <!-- <p>&emsp;&emsp;Discord: <a href="https://discord.gg/xpjRnv8wpX">https://discord.gg/xpjRnv8wpX</a></p> -->
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-### 👉 **特别感谢**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./image/icon-logo-blue.png" alt="Logo" width="100">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./image/poolin.svg" alt="Logo" width="100">
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感谢以上矿池在一定范围内提供了技术支持😊</p>
 
    </td>
    </tr>
