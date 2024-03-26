@@ -136,7 +136,11 @@ https://github.com/NTminerProxy/NTminerProxy/tree/master/windows
 ![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
 
 ```
-   3.9.7版本已发布
+   3.9.9
+   修复了过去几个版本容易掉线的问题（这个问题是由于本地网络波动导致的，当前版本已优化）
+   增加了一处被CC攻击的防御补丁
+
+   3.9.7
    修复ZEPH相关BUG
    增加SDR
    重构了端口编辑、添加窗口
