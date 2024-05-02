@@ -19,7 +19,6 @@
 # NTminerProxy
 
 <table>
-
    <tr>
    <td>
 <span id="anzhuang"></span>
