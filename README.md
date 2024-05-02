@@ -11,7 +11,6 @@
 
 <br>
 <br>
-
 <!-- <a href="https://github.com/CakeSystem/CakeMinerProxy">简体中文</a>｜<a href="https://github.com/CakeSystem/CakeMinerProxy/tree/main/Readme/i18n">English</a> -->
 
 </div>
