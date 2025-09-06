@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.93"
+VERSION="4.5.5"
 DOWNLOAD_HOST="https://github.com/NTminerProxy/NTminerProxy/raw/master/linux"
 ORIGIN_EXEC="NTminerProxy-${VERSION}"
 
