@@ -129,43 +129,6 @@ https://github.com/NTminerProxy/NTminerProxy/tree/master/windows
 
 <span id="gengxin"></span>
 
-### 👉 **更新日志**
-
-![](https://ghproxy.com/https://raw.githubusercontent.com/Evilgenius-dot/Evilgenius-dot/output/github-contribution-grid-snake.svg)
-
-```
-   3.9.9
-   修复了过去几个版本容易掉线的问题（这个问题是由于本地网络波动导致的，当前版本已优化）
-   增加了一处被CC攻击的防御补丁
-
-   3.9.7
-   修复ZEPH相关BUG
-   增加SDR
-   重构了端口编辑、添加窗口
-```
-
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-<span id="dingzhi"></span>
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
-### 👉 **针对E9pro的一些优化措施**
-
-   <p>&emsp;&emsp;矿机的后台配置里, 只保留一条地址配置信息, 删除2和3的配置</p>
-
-   </td>
-   </tr>
-   <tr>
-   <td>
-
 ### 👉 **端口导入、导出**
 
    <p>&emsp;&emsp;三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:</p>
