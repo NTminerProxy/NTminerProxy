@@ -4,8 +4,8 @@
 
 <img src="./image/logo.jpg" alt="Logo" width="170">
 
-<h1>开源矿工首款矿池中转软件</h1>
-<h2>NTminerProxy做最好的矿池中转软件</h2>
+<h1>开源矿工首款自建矿池/矿池中转软件</h1>
+<h2>联合挖矿，自建BTC矿池/自建LTC矿池/自建ETC矿池/自建ETC矿池</h2>
 
 <img src="./image/1.png" alt="Logo">
 
